@@ -27,3 +27,11 @@ screen `ls /dev/tty.*serial*` 9600
 
 > [!IMPORTANT]
 > To exit `screen`, make sure you hit `CTRL-A CTRL-K`!  Failing to do so (e.g.  CTRL-C'ing, `kill`ing the process, or just closing the bash shell) may leave the serial port in an unusable state (... which will be indicated by the screen command saying '"Sorry, could not find a PTY".)
+
+----
+
+See also my video tutorial:
+
+[![youtube video](http://img.youtube.com/vi/3_VwUyIn4KM/0.jpg)](http://www.youtube.com/watch?v=3_VwUyIn4KM "Video Title")
+
+
