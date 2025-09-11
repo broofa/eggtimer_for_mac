@@ -4,7 +4,7 @@ This project provides notes and utilities for working with EggTimer TRS and EggF
 
 ## Programming the EggTimer TRS
 
-Want to connect to your TRS from your Mac?  See [Serial_Connection.md](.Serial_Connection.md)
+Want to connect to your TRS from your Mac?  See [Serial_Connection.md](Serial_Connection.md)
 
 ## Firmware Updates
 
